@@ -23,23 +23,3 @@
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <section/>
-
-<style>
-    img {
-        width: 40px;
-        transition: all .1s linear;
-        padding: 5px;
-        border-radius: 0.25rem; 
-    }
-    
-    img:hover {
-        background-color: lightgray;
-    }
-    
-    section {
-        display: flex;
-        flex-direction: row;
-        gap: 2px;
-        flex-wrap: wrap;
-    }
-<style/>
